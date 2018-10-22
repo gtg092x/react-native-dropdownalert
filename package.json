@@ -1,5 +1,5 @@
 {
-  "name": "react-native-dropdownalert",
+  "name": "@mediadrake/react-native-dropdownalert",
   "version": "3.7.0",
   "description": "A simple alert to notify users about new chat messages, something went wrong or everything is ok.",
   "main": "DropdownAlert.js",
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/testshallpass/react-native-dropdownalert.git"
+    "url": "git+https://github.com/gtg092x/react-native-dropdownalert.git#fork"
   },
   "keywords": [
     "dropdown",
@@ -34,9 +34,9 @@
   "author": "Brian Sinnicke",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/testshallpass/react-native-dropdownalert/issues"
+    "url": "https://github.com/gtg092x/react-native-dropdownalert/issues"
   },
-  "homepage": "https://github.com/testshallpass/react-native-dropdownalert#readme",
+  "homepage": "https://github.com/gtg092x/react-native-dropdownalert#readme",
   "devDependencies": {
     "babel-jest": "22.4.1",
     "babel-preset-react-native": "4.0.0",
